@@ -68,7 +68,7 @@ AiBubu leverages cutting-edge AI and cloud services to deliver a powerful learni
 - **Motivational Rewards**: Unlock special content and features
 - **Leaderboards**: Track your progress against peers
 
-### �‍🏫 Teatcher Mode
+### �‍🏫 Teacher Mode
 
 - **Custom Tutorial Creation**: Teachers can create personalized learning content
 - **AI-Assisted Content Generation**: Use AI to help design lessons and questions
