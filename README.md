@@ -2,13 +2,16 @@
 
 AiBubu is an AI-powered educational platform that makes learning languages and core subjects fun and engaging for kids. Through interactive lessons, voice-enabled AI tutors, and gamified progression, children embark on a personalized learning journey adapted to their level and pace.
 
-🚀 **[Try the Live Demo](https://aibubu-app-demo.vercel.app)** 🚀
+🚀 **[Try the Live Demo](https://aibubu-gemini3.vercel.app)** 🚀
+
+
+ **[Video Demo](https://youtu.be/hOmouxbyCdY)** 
 
 ## 🔌 Integrations
 
 AiBubu leverages cutting-edge AI and cloud services to deliver a powerful learning experience:
 
-- **Google Gemini Models**: AI-powered assessment and review system for intelligent content generation and answer validation
+- **Google Gemini 3 Models**: AI-powered assessment and review system for intelligent content generation and answer validation, leveraging long context, deep thinking and multimedia inputs capabilities of Gemini 3 models
 - **ElevenLabs Integration**: High-quality text-to-speech with both standard and custom voice models for natural-sounding AI tutors
 - **Vercel AI SDK**: Seamless streaming responses and AI integration for real-time interactive experiences
 - **Supabase**: Complete backend solution with PostgreSQL database and secure authentication system
@@ -117,7 +120,7 @@ AiBubu leverages cutting-edge AI and cloud services to deliver a powerful learni
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aibubu-app.git
+git clone https://github.com/0xbohu/aibubu-gemini3.git
 cd aibubu-app
 ```
 
